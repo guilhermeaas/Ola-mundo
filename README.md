@@ -1,4 +1,6 @@
 # Olá, mundo!
+## Titulo2.
+
  Repositório do curso em video de git e github.
 
  Repositório criado durante uma aula ao vivo.
@@ -49,4 +51,9 @@ Num | Nota | Nota
 Formatação com códigos.
 usa-se 3 crases antes e depois do trecho desejado.
 ```System.out.println("Olá, Mundo!");```
+---
+Usando emojis.
+
+:monkey:
+
 
